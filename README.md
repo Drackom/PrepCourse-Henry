@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de Prueba
+Prueba para iniciar pasos básicos de GitBush
